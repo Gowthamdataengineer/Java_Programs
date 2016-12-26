@@ -2,11 +2,11 @@ Step 1: Download and install VM Ware
 
 Step 2: Install Ubuntu (64 bit ) by using VM Ware  
 
---------------------------------------
+
 
 
 Step 3: Download
------------
+
 http://www-us.apache.org/dist/hadoop/common/hadoop-1.2.1/hadoop-1.2.1.tar.gz                                       
 
 
@@ -35,7 +35,7 @@ http://downloads.typesafe.com/scalaide-pack/4.5.0-vfinal-neon-211-20161213/scala
 
 Keep all the above downloaded file inside Ubuntu some directory                                                  
 
--------------------------------------
+
 
 
 Step 4: 
@@ -44,8 +44,10 @@ Run the below commands in Ubuntu Terminal to open terminal (CTRL + ALT + T) . Th
 
 sudo apt-get install openssh-server                                                   
 
-sudo apt-get install vim
----------------------------------------
+sudo apt-get install vim                                                   
+
+
+
 
 Step 5 :
 
